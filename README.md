@@ -1,0 +1,2 @@
+# Checkio
+Coding daily training
